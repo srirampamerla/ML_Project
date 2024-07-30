@@ -1,4 +1,10 @@
 # create the env
 conda create -p venv python==3.8 -y(y will allow permission to download without asking permission y or n and total project is developing with the python 3.8 version)
+conda activate venv/
 Create the GitHub repository and add to the vscode.
 Create the .gitignore choose the language as Python and commit the changes.
+
+
+create the setup.py which will help machine learning to make as a package.(which contains metadata)
+
+create drc folder . add __init__.py (In setup we wrote find packages that will directly __.py files an coinsder src as package )
