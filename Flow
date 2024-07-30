@@ -1,0 +1,2 @@
+# create the env
+conda create -p venv python==3.8 -y(y will allow permission to download without asking permission y or n and total project is developing with the python 3.8 version)
